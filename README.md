@@ -1,1 +1,2 @@
-# Server-Stats
+READ.ME FILE -
+THIS BOT IS MADE BY LAZER
